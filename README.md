@@ -1,2 +1,2 @@
 # About-Me
-<img src="" />
+<img src="https://github.com/nicatdursunlu/About-Me/blob/main/app/screenshoots/aboutmescreenshots.png" />
