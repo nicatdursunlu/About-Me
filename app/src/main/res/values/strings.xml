@@ -1,4 +1,23 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Nijat Dursunlu</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">I\'m Nijat and I\'m Front-End and Mobile Developer
+        I am studying Computer Engineering(EN) at Baku Engineering University.
+        I participate at some programming contests such as ICPC NERC,
+        Google Hashcode, PasaBank Cup.
+        Practised in Front-End and Mobile App Development and have real projects.
+        Build some cross platform (Android and IOS) mobile applications.
+        I am also alumni of Mobile Development from
+        IBA Tech Academy (DAN IT education)
+
+        I have a few web projects. These are technologies that I use in this projects:
+        HTML for main structure, CSS for styling elements, JavaScript to add functionality
+        to the project; another technologies that I used for web are
+        React(SCSS, styled components for styling element) and Redux for data state management.
+        I have also Mobile App projects for both platforms Android and IOS.
+        For creating simple page applications, I used React Native(special library of
+        JavaScript for cross-platform Mobile Applications),
+        Redux and Firebase (as a storage and backend)
+    </string>
 </resources>
